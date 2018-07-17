@@ -1,0 +1,53 @@
+.features-block-10 {
+	font-family: 'Nunito', sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-rendering: optimizelegibility;
+	padding: 100px 0;
+	color: #444444;
+	position: relative;
+	background-size: cover;
+	background-position: center;
+	overflow: hidden;
+	background-color: #FFFFFF;
+}
+
+.features-block-10 .feature {
+	margin: 4em 0;
+}
+
+.features-block-10 .p-width {
+	width: 75%;
+}
+
+.features-block-10 .left-feature {
+	margin: 0 auto 0 auto;
+}
+
+.features-block-10 .right-feature {
+	margin: 0 auto 0 auto;
+}
+
+@media (min-width: 992px) {
+	.features-block-10 .left-feature {
+		margin: 0 0 0 auto;
+	}
+	.features-block-10 .right-feature {
+		margin: 0 auto 0 0;
+	}
+}
+
+.features-block-10 h4 {
+	font-size: 1.275rem;
+	margin-bottom: .5em;
+	margin-top: .3em;
+	font-weight: 400;
+	color: #ff0000;
+}
+
+.features-block-10 .fa {
+	font-size: 2rem !important;
+}
+
